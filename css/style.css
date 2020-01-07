@@ -30,20 +30,8 @@ header {
 }
 
 main {
-
+	background-image: url('img/cover.png');
 }
-.movieCard {
-	width: 90vw;
-}
-.movieCover {
-	background-image: url('img/cover.jfif');
-	width: 100px;
-	height: 80px;
-}
-.movieInfo {
-	
-}
-
 
 footer {
 
